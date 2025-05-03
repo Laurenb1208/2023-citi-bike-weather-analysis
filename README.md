@@ -1,7 +1,7 @@
 # Weather vs. Citi Bike Usage in NYC (2023)
 
 ## Introduction
-This project explores the relationship between weather conditions and Citi Bike usage in New York City. It aims to analyze how factors such as rain, temperature, and wind impact daily usage.
+This project explores the relationship between weather conditions and Citi Bike usage in New York City. It aims to analyze how factors such as rain, temperature, and wind impact daily ride usage.
 
 ## File Structure
 **Data:**  
