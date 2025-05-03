@@ -8,7 +8,7 @@ This project explores the relationship between weather conditions and Citi Bike 
   - `NYC_citibike_2023.csv`: Full NYC 2023 Citi Bike dataset
  [Download it here (Google Drive)](https://drive.google.com/file/d/1Z6TtwEiiS1gXGgsxzyYDBJkUAuh6GwNH/view?usp=sharing)  
   *(Note: This file is over GitHub's 100MB file size limit and is hosted externally)* 
-- [`final_weather_data_scraped.csv`](Data/final_weather_data_scraped.csv): Scraped, cleaned, and aggregated 2023 NYC weather data  
+- [`final_weather_data_scraped.csv`](Data/final_weather_data_scraped.csv): Scraped and cleaned 2023 NYC weather data  
 - [`final_merged_data.csv`](Data/final_merged_data.csv): Final merged dataset used for analysis
 
 **Notebooks:**  
