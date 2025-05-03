@@ -18,7 +18,7 @@ This project explores the relationship between weather conditions and Citi Bike 
   
 **Other Files:**  
 - `README.md`: Overview of the project  
-- [`data_dictionary.md`](data_dictionary.md): Descriptions of key fields in the merged dataset
+- [`data_dictionary.md`](data_dictionary.md): Descriptions of key fields in the final merged dataset
 - [`Final Report.pdf`](Final%20Report.pdf): Full project report detailing the project's motivation, methodology, and key findings
   
 ## Dataset Sources
