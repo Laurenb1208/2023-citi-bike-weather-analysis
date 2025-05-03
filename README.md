@@ -13,7 +13,7 @@ This project explores the relationship between weather conditions and Citi Bike 
 
 **Notebooks:**  
 - [`Scrapped_Clean_NYC_Weather_2023.ipynb`](Notebooks/Scrapped_Clean_NYC_Weather_2023.ipynb): Scrapes and cleans NYC weather data from 2023
-- [`Merging and cleaning Citi Bike data.ipynb`](Notebooks/Merging%20and%20cleaning%20Citi%20Bike%20data.ipynb): Aggregates Citi Bike trip data and merges it with the cleaned weather data
+- [`Merging and cleaning Citi Bike data.ipynb`](Notebooks/Merging%20and%20cleaning%20Citi%20Bike%20data.ipynb): Aggregates Citi Bike trip data and merges it with the final weather data
 - [`Final Analysis.ipynb`](Notebooks/Final%20Analysis.ipynb): Performs the final analysis, including visualizations, hypothesis testing, machine learning models and forecasting
   
 **Other Files:**  
