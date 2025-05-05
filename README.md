@@ -1,3 +1,4 @@
+# BAIS:3250 Final Project
 # Weather vs. Citi Bike Usage in NYC (2023)
 
 ## Introduction
